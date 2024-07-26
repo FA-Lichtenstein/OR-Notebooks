@@ -1,3 +1,3 @@
-# OR Notebooks
+# Self-Study Notebooks
 
-A public repo of personal notebooks created to revise and summarize OR, mathematics, statistics, and data science concepts and techniques and to hone scientific computing skills.
+A public repo of self-study notebooks created in the process of revising and summarizing textbooks to hone my scientific computing and software engineering skills.
